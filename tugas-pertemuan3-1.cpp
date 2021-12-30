@@ -4,6 +4,8 @@ int main()
 {
   int jari;
   float keliling, luas, isi, phi=3.14;
+  
+  //membuat program bola dan isi bola
     
     //menghitung keliling bola
     cout << "Masukkan Jari-jari = "; cin >> jari;
