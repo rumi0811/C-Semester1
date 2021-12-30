@@ -4,6 +4,8 @@ using namespace std;
 int main()
 {
     int a, i, j, jum;
+    
+    //program penjumlahan segitiga pascal separuh
   
       for (i=1;i<=4; i++)
       {
