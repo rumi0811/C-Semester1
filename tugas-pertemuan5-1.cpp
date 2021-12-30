@@ -4,6 +4,7 @@
 using namespace std;
 int main()
 {
+  //membuat angka 15 22 31 42 55
   int i, n, x;
   n=10;
   x=5;
