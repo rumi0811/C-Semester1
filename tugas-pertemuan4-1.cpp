@@ -7,6 +7,9 @@
 using namespace std;
 int main()
 {
+    
+    //program penggajian karyawan
+    
     char nama[30],pend[10],balik;
     long lembur,tunjab,tunpend,gaji,gol;
     int qty,jmljam;
