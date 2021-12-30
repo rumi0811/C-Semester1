@@ -1,3 +1,4 @@
+//pembuatan program bus 
 #include <iostream>
 #include <conio.h>
 #include <cstring>
